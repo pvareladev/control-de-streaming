@@ -1,0 +1,72 @@
+@import url(https://fonts.googleapis.com/css?family=Inconsolata);
+
+body {
+    padding-top: 50px;
+}
+.starter-template {
+    padding: 40px 15px;
+    text-align: center;
+}
+
+.navbar-inverse {
+	background-image: url('../img/bkgnav3.png');
+	box-shadow: 0 1px 0 rgba(255, 255, 255, 0.15) inset, 0 1px 5px rgba(0, 0, 0, 0.075);
+}
+
+.navbar-inverse .navbar-nav > .active > a, .navbar-inverse .navbar-nav > .active > a:focus, .navbar-inverse .navbar-nav > .active > a:hover {
+    background-color: #911c71;
+    color: #fff;
+}
+
+.navbar-inverse .navbar-nav > li > a {
+    color: #e0e0e0;
+}
+
+.navbar-inverse .navbar-brand {
+    color: #fcfcfc;
+}
+
+.navbar-inverse .navbar-text {
+	color: #fdfdfd;
+}
+
+.playing1 {
+	background-color: #5cb85c;
+}
+
+.playing2 {
+	background-color: #386E38;
+}
+
+.btn-ctrl {
+	width: 150px;
+}
+
+.mensajes {
+	font-family: Inconsolata;
+}
+
+.cargando {
+	color: #999999;
+}
+
+.titulo-verde {
+	background-color: rgb(92, 184, 92);
+	color: #ffffff;
+}
+
+.titulo-verde {
+	background-color: rgb(92, 184, 92);
+	color: #ffffff;
+}
+
+.titulo-rojo {
+	background-color: #ac2925;
+	color: #ffffff;
+}
+
+.titulo h3 {
+	margin-top: 0px;
+	margin-bottom: 0px;
+	text-align: center;
+}
