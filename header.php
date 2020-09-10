@@ -7,7 +7,7 @@
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
     <meta name="description" content="">
     <meta name="author" content="Pablo Varela">
-    <link rel="icon" href="img/faviconciara.png">
+    <link rel="icon" href="img/favicon.png">
 
     <title>Streaming Server 1</title>
 
